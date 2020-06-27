@@ -25,11 +25,27 @@ body {
     height: 100vh;
     color: #555;
 }
+.rules {
+  width: 100%;
+  border: 2px solid black;
+}
+
+ h1{
+   background-color: white;
+   color: black;
+   text-align: center;
+ }
+
+ h3{
+   background-color: white;
+   color: black;
+   text-align: justify;
+ }
 
 .wrapper {
     width: 1000px;
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fff;
